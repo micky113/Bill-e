@@ -1,10 +1,11 @@
-# secondflutterproject
+# Bill-e An app made using Flutter
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+A Simple Bill app which shows Bill amount and Tip amount based on tip percentage.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Make sure you have flutter, android studio, phone, VS Code emulator downloaded in your system.
+In VS Code, get the required extensions.
+After copying files into your system, when you start running in your VS Code, downlaod the dart dependency files when prompted.
